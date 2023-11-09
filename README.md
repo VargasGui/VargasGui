@@ -1,8 +1,9 @@
 <h1 align="center">You're Welcome! 😊</h1>
 <h3>👇My Status 🫡</h3>
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VargasGui&show_icons=true&theme=dracula)
 <div>
    <a href="https://github.com/VargasGui">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VargasGui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VargasGui&layout=compact&langs_count=6&theme=dracula"/>
 </div>
      
